@@ -1,13 +1,13 @@
-Coleta Fácil
+# Coleta Fácil
 • Projeto web para facilitar o acesso às informações sobre coleta de lixo e descarte correto de resíduos.
 
-Funcionalidades:
+## Funcionalidades:
 • Visualizar datas de coleta por região.
 • Dicas de separação e descarte correto de lixo.
 • Envio de comentários e solicitações.
 • Área de login e cadastro.
 
-Estrutura:
+## Estrutura:
 00-splash.html - página de splash.
 01-index.html – página inicial.
 02-calendario.html – calendário de coleta.
@@ -17,14 +17,14 @@ Estrutura:
 06-login.html - login de usuário.
 07-cadastro.html - cadastro de usuário.
 
-Tecnologias
+## Tecnologias
 • HTML
 • CSS
 • JavaScript
 
-Como usar
+## Como usar
 • Baixe ou clone o repositório.
 • Abra o arquivo 00-splash no navegador.
 
-Observação
+## Observação
 • Projeto desenvolvido para fins educacionais.

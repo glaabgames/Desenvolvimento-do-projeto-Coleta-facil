@@ -1,19 +1,30 @@
-# Portfólio:  
-– Olá! Eu me chamo Emanuele.  
-– Sou estudante de Engenharia de Software e este repositório foi criado para apresentar meu portfólio e meus primeiros projetos desenvolvidos durante a faculdade.  
-  
-## Sobre mim:  
-– Atualmente estou no 3º período da faculdade e venho me dedicando ao aprendizado de HTML e CSS.  
-– Busco evoluir constantemente minhas habilidades e construir projetos simples, organizados e funcionais.  
-  
-## Tecnologias utilizadas:  
-• HTML  
-• CSS  
-• JAVA  
-  
-## Projetos:  
-• ViraLar Pet:  
-– Sistema voltado para adoção regional de animais.  
-  
-## Contato:  
-• Email: engs-emanueleneiverth@camporeal.edu.br
+# Coleta Fácil
+Projeto web para facilitar o acesso às informações sobre coleta de lixo e descarte correto de resíduos.
+
+## Funcionalidades:
+• Visualizar datas de coleta por região.
+• Dicas de separação e descarte de lixo.
+• Envio de comentários e solicitações.
+• Área de login e cadastro.
+
+## Estrutura:
+• 00-splash.html - página de splash.
+• 01-index.html – página inicial.
+• 02-calendario.html – calendário de coleta.
+• 03-dicas.html – orientações de descarte.
+• 04-comentarios.html – formulário de contato.
+• 05-perfil.html – dados do usuário.
+• 06-login.html - login de usuário.
+• 07-cadastro.html - cadastro de usuário.
+
+## Tecnologias:
+• HTML.
+• CSS.
+• JavaScript.
+
+## Como usar:
+• Baixe ou clone o repositório.
+• Abra o arquivo 01-index.html no navegador.
+
+## Observação:
+• Projeto desenvolvido para fins educacionais.
